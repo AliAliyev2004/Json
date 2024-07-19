@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALI\\source\\repos\\JSon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|c:\\users\\ali\\source\\repos\\json\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|c:\\users\\ali\\source\\repos\\json\\json\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|solutionrelative:json\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|c:\\users\\ali\\source\\repos\\json\\json\\cargallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|solutionrelative:json\\cargallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|c:\\users\\ali\\source\\repos\\json\\json\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACEAA3C-85F2-4C36-AB83-4C0BC07188CD}|JSon\\JSon.csproj|solutionrelative:json\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Class1.cs",
+              "RelativeDocumentMoniker": "JSon\\Class1.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Class1.cs",
+              "RelativeToolTip": "JSon\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:25:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarGallery.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\CarGallery.cs",
+              "RelativeDocumentMoniker": "JSon\\CarGallery.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\CarGallery.cs",
+              "RelativeToolTip": "JSon\\CarGallery.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:24:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Car.cs",
+              "RelativeDocumentMoniker": "JSon\\Car.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Car.cs",
+              "RelativeToolTip": "JSon\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:24:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Program.cs",
+              "RelativeDocumentMoniker": "JSon\\Program.cs",
+              "ToolTip": "C:\\Users\\ALI\\source\\repos\\JSon\\JSon\\Program.cs",
+              "RelativeToolTip": "JSon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:24:01.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
